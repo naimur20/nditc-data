@@ -1,9 +1,44 @@
 [
     {
-        "title": "",
-        "description": "",
-        "image_url": "",
+        "title": "Father Timm Memorial Programming Contest 1.0",
+        "description": "In this COVID-19 pandemic, behold the largest online programming competition in the country presented by Notre Dame Information Technology Club. This is our first ever flagship programming contest which will be held every year from now...",
+        "image_url": "https://ftmpc.nditc.org/images/editedFTMPC.jpg",
         "launching_date": "",
-        "details_link": ""
+        "details_url": ""
+    },
+    {
+        "title": "Breaking the <script>",
+        "description": "Since its inception in 1995, JavaScript has been growing into the most popular, dominant language of the web. Over the last decade, the adoption of JS has only been growing, showing no signs of slowing down...",
+        "image_url": "https://nditc.org/assets/images/breaking%20the%20script-01.png",
+        "launching_date": "",
+        "details_url": ""
+    },
+    {
+        "title": "Annual Fest: NDITC init",
+        "description": "Future. Machines. Technology. Robots rushing after football to scores goals against each other! Look there. Battle of Bots. Sparks coming from the clashes of their metal bodies. And the sounds from above? The drones. Machines in the factories, self-driving cars, surgical operation robots - that's the future of technology. Technology is advancing like never before, and as humans, it is up to all of us to make sure we are not left behind...",
+        "image_url": "https://nditc.org/assets/images/activities_init.jpg",
+        "launching_date": "",
+        "details_url": ""
+    },
+    {
+        "title": "Workshop: The Basics of C++",
+        "description": "C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems...",
+        "image_url": "https://nditc.org/assets/images/activities_coding.jpg",
+        "launching_date": "",
+        "details_url": ""
+    },
+    {
+        "title": "Seminar: Hour of Networking",
+        "description": "Networking refers to the total process of creating and using computer networks, with respect to hardware, protocols and software, including wired and wireless technology...",
+        "image_url": "https://nditc.org/assets/images/activities_networking.jpg",
+        "launching_date": "",
+        "details_url": ""
+    },
+    {
+        "title": "Workshop: Digital Designing | The Basics",
+        "description": "Graphic design is art with a purpose. It involves a creative and systematic plan to solve a problem or achieve certain objectives, with the use of images, symbols or even words...",
+        "image_url": "https://nditc.org/assets/images/activities_graphics.jpg",
+        "launching_date": "",
+        "details_url": ""
     }
 ]
