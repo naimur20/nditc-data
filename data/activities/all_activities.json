@@ -7,13 +7,6 @@
         "details_url": ""
     },
     {
-        "title": "Breaking the <script>",
-        "description": "Since its inception in 1995, JavaScript has been growing into the most popular, dominant language of the web. Over the last decade, the adoption of JS has only been growing, showing no signs of slowing down...",
-        "image_url": "https://nditc.org/assets/images/breaking%20the%20script-01.png",
-        "launching_date": "",
-        "details_url": ""
-    },
-    {
         "title": "Annual Fest: NDITC init",
         "description": "Future. Machines. Technology. Robots rushing after football to scores goals against each other! Look there. Battle of Bots. Sparks coming from the clashes of their metal bodies. And the sounds from above? The drones. Machines in the factories, self-driving cars, surgical operation robots - that's the future of technology. Technology is advancing like never before, and as humans, it is up to all of us to make sure we are not left behind...",
         "image_url": "https://nditc.org/assets/images/activities_init.jpg",
@@ -24,6 +17,13 @@
         "title": "Workshop: The Basics of C++",
         "description": "C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems...",
         "image_url": "https://nditc.org/assets/images/activities_coding.jpg",
+        "launching_date": "",
+        "details_url": ""
+    },
+    {
+        "title": "Breaking the <script>",
+        "description": "Since its inception in 1995, JavaScript has been growing into the most popular, dominant language of the web. Over the last decade, the adoption of JS has only been growing, showing no signs of slowing down...",
+        "image_url": "https://nditc.org/assets/images/breaking%20the%20script-01.png",
         "launching_date": "",
         "details_url": ""
     },
