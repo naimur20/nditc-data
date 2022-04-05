@@ -1,107 +1,107 @@
 {
-   "title": "Father Timm Memorial Programming Contest 1.0",
-   "description": "In this COVID-19 pandemic, behold the largest online programming competition in the country presented by Notre Dame Information Technology Club. This is our first ever flagship programming contest which will be held every year from now. In memory of Father Richard William Timm, presenting 'Father Timm Memorial Programming Contest' to be held for the first time this October.",
-   "launching_date": "24 September",
-   "images": [
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/editedFTMPC.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/1.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/2.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/3.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/4.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/5.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/6.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/8.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/9.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/10.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/11.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/12.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/13.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/14.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/16.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/17.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/18.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/19.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/20.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/21.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/22.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/23.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/24.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/25.jpg"
-      },
-      {
-         "title": "",
-         "url": "https://ftmpc.nditc.org/images/gallery/26.jpg"
-      }
-   ]
-}
+    "title": "Father Timm Memorial Programming Contest 1.0",
+    "description": "The lockdown has been quite a big problem for the general public, but to the programming creed, not so much. But getting used to staying completely indoors sure does take some time getting used to - even if that is programming. Asides from code forces and other online platforms, you programmers must indeed have missed some of your home tourneys. But no worries - Father Timm Memorial Programming Contest - 2.0 is here. Brought to you by Notre Dame Information Technology Club and in memory of our revered late Father Richard William Timm, this contest is a follow up to the FTMPC - 1.0, one of the largest programming contests of the country.And this time, the suffix 2.0 will brew a whole new level of coding spice for you.\n\n◆ Father Richard William Timm\n\nFather Richard William Timm (1923 – 2020) was one of the founding members of Notre Dame College, Dhaka, and our revered 6th principal. Father Timm is noteworthy for his writings and relief works supporting Bangladesh in the Liberation war. Besides his social work, he had an excellent scholarly mind. As a biologist, he had done extensive research works in taxonomy and discovered over 250 species. Father Timm is also the founder of the debate and science club of Notre Dame College, the firsts in the country. This competition, we will remember him every year for his immense contributions to Science, Notre Dame College and Bangladesh.\n\n◆ Rules and regulations\n• All students from schools and colleges(including HSC batch-2020) and corresponding institutions such as polytechnic institutes(4th year and below) are eligible to participate.\n• Participants have to participate individually.\n• The Contest will follow the IOI format.\n• Participants can use only C or C++ programming language.\n• The contest platform will be CMS.\n• Participants have to participate in the contest using the custom handle.\n• Custom handles will be given to participants via email.\n• The contest will last for 4 hours.\n\n◆ Plagiarism Issues\nSince it will be an online contest, third-party codes that were written or available online before the start of the contest can be used, but it may lead to confusion if more than one participant uses the same template. In that case, the decision of the judges will be considered. Apart from that, if a person is caught cheating by providing/taking code from others, then they will be DISQUALIFIED from the contest.\n\n◆ FTMPC 1.0\nFather Timm Memorial Programming Contest - 1.0, organized by Notre Dame Information Technology Club, was held in memory of Father Richard William Timm. The contest was one of the biggest and greatest programming contests of the country and is recognized as the club’s flagship programming contest.\n\nFTMPC Registration link: https://ftmpc.nditc.org/participants\nTo know more visit https://ftmpc.nditc.org",
+    "launching_date": "24 September",
+    "images": [
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/editedFTMPC.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/1.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/2.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/3.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/4.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/5.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/6.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/8.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/9.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/10.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/11.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/12.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/13.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/14.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/16.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/17.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/18.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/19.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/20.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/21.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/22.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/23.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/24.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/25.jpg"
+       },
+       {
+          "title": "",
+          "url": "https://ftmpc.nditc.org/images/gallery/26.jpg"
+       }
+    ]
+ }
