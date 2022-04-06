@@ -14,6 +14,13 @@
       "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/init.json"
     },
     {
+      "title":"Workshop: Microcontroller | The Basics",
+      "description":"One question may peep on your mind why the name is \"Microcontroller\". Microcontrollers are basically mini computers one can program to use for a specific purpose. Lighting up LED, driving motors, calculating the distance by sonar sensor, measuring temperature, humidity and so on can be done with the help of microcontrollers. These all are the basics of robotics as well. So you are not only getting introduced with microcontroller but also entering the world of robotics.",
+      "image_url":"https://nditc.org/assets/images/activities_mcb.jpg",
+      "launching_date":"",
+      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/mc_workshop.json"
+    },
+    {
       "title":"Workshop: The Basics of C++",
       "description":"C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems...",
       "image_url":"https://nditc.org/assets/images/activities_coding.jpg",
