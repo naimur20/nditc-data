@@ -25,27 +25,27 @@
       "description":"C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems...",
       "image_url":"https://nditc.org/assets/images/activities_coding.jpg",
       "launching_date":"",
-      "details_url":""
+      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/programming_workshop.json"
     },
     {
       "title":"Breaking the <script>",
       "description":"Since its inception in 1995, JavaScript has been growing into the most popular, dominant language of the web. Over the last decade, the adoption of JS has only been growing, showing no signs of slowing down...",
       "image_url":"https://nditc.org/assets/images/breaking%20the%20script-01.png",
       "launching_date":"",
-      "details_url":""
+      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/breaking_the_script.json"
     },
     {
       "title":"Seminar: Hour of Networking",
       "description":"Networking refers to the total process of creating and using computer networks, with respect to hardware, protocols and software, including wired and wireless technology...",
       "image_url":"https://nditc.org/assets/images/activities_networking.jpg",
       "launching_date":"",
-      "details_url":""
+      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/networking_seminar.json"
     },
     {
       "title":"Workshop: Digital Designing | The Basics",
       "description":"Graphic design is art with a purpose. It involves a creative and systematic plan to solve a problem or achieve certain objectives, with the use of images, symbols or even words...",
       "image_url":"https://nditc.org/assets/images/activities_graphics.jpg",
       "launching_date":"",
-      "details_url":""
+      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/designing_workshop.json"
     }
   ]
