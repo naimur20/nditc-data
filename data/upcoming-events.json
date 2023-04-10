@@ -3,42 +3,42 @@
       "title":"init 4.0",
       "image_url":"https://nditc.org/assets/images/activities_init.jpg",
       "launching_date":"13 September",
-      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/init.json"
+      "details_url":"https://raw.githubusercontent.com/naimur20/nditc-data/main/data/upcoming-event-details-sample.json"
     },
     {
       "title":"Microcontroller Basics",
       "image_url":"https://nditc.org/assets/images/activities_mcb.jpg",
       "launching_date":"",
-      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/mc_workshop.json"
+      "details_url":"https://raw.githubusercontent.com/naimur20/nditc-data/main/data/upcoming-event-details-sample.json"
     },
     {
       "title":"Workshop: C++",
       "image_url":"https://nditc.org/assets/images/activities_coding.jpg",
       "launching_date":"",
-      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/programming_workshop.json"
+      "details_url":"https://raw.githubusercontent.com/naimur20/nditc-data/main/data/upcoming-event-details-sample.json"
     },
    {
       "title":"FTMPC",
       "image_url":"https://ftmpc.nditc.org/images/editedFTMPC.jpg",
       "launching_date":"24 September",
-      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/ftmpc.json"
+      "details_url":"https://raw.githubusercontent.com/naimur20/nditc-data/main/data/upcoming-event-details-sample.json"
     },
   {
       "title":"init 4.0",
       "image_url":"https://nditc.org/assets/images/activities_init.jpg",
       "launching_date":"13 September",
-      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/init.json"
+      "details_url":"https://raw.githubusercontent.com/naimur20/nditc-data/main/data/upcoming-event-details-sample.json"
     },
     {
       "title":"Microcontroller Basics",
       "image_url":"https://nditc.org/assets/images/activities_mcb.jpg",
       "launching_date":"",
-      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/mc_workshop.json"
+      "details_url":"https://raw.githubusercontent.com/naimur20/nditc-data/main/data/upcoming-event-details-sample.json"
     },
     {
       "title":"Workshop: C++",
       "image_url":"https://nditc.org/assets/images/activities_coding.jpg",
       "launching_date":"",
-      "details_url":"https://raw.githubusercontent.com/Md-Innovation-1420/nditc-data/main/data/activities/programming_workshop.json"
+      "details_url":"https://raw.githubusercontent.com/naimur20/nditc-data/main/data/upcoming-event-details-sample.json"
     }
 ]
