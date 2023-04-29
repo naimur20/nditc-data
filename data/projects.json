@@ -1,0 +1,20 @@
+[
+  {
+    "title" : "Evya.AI Application",
+    "subtitle": "NDITC'S first AI project",
+    "image_url": "https://raw.githubusercontent.com/naimur20/nditc-data/main/data/image-4.png",
+    "details_url": ""
+  },
+  {
+    "title" : "NDITC Intra PixelCon",
+    "subtitle": "3 June 2022",
+    "image_url": "https://raw.githubusercontent.com/naimur20/nditc-data/main/data/image-3.png",
+    "details_url": ""
+  },
+  {
+    "title" : "Fathe Timm Memorial Programming Contest 3.0",
+    "subtitle": "14 January 2023",
+    "image_url": "https://raw.githubusercontent.com/naimur20/nditc-data/main/data/image-2.png",
+    "details_url": ""
+  }
+]
