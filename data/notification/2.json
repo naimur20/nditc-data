@@ -1,7 +1,7 @@
 {
   "image_url": "https://source.unsplash.com/user/c_v_r/1900x800",
   "title": "This is a sample push notification for testing",
-  "description": "Thanks for opening the notification. The notification is stored in SQLite database in your device. To be sure if the notification is stored in the storage or not, please exit the application, remove it from recent, open the app again, click the notification icon on top right corner and see if the notification is saved or not. If you see there is no notification, please let us know about the bug through facebook.\n\nWhether you find an error or not, please fill the form below to let us know that you have successfully received this notification.\n\nForm link: https://forms.gle/svTSCFY3a4UwXdkx8",
+  "description": "Thanks for opening the notification. The notification is stored in SQLite database in your device. To be sure if the notification is stored in the storage or not, please exit the application, remove it from recent, open the app again, click the notification icon on top right corner and see if the notification is saved or not. If you see there is no notification, please let us know about the bug through facebook.\n\nWhether you find an error or not, please fill the form below to let us know that you have successfully received this notification.\n\nForm link: https://forms.gle/svTSCFY3a4UwXdkx8\n\nIf you can not open the link above, please let us know through facebook. Because I know you are one of our executive committee. Hehe. It's Naimur. ✌️",
   "action": {
     "label": "https://forms.gle/svTSCFY3a4UwXdkx8",
     "target": "https://forms.gle/svTSCFY3a4UwXdkx8"
