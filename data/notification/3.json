@@ -1,0 +1,8 @@
+{
+  "title": "Sample notification title",
+  "description": "This notification was sent for checking if the push notification service is working fine or not. Don't forget to send your feedback on messenger. Thanks.\n\ny It's Naimur. ✌️",
+  "action": {
+    "label": "https://forms.gle/svTSCFY3a4UwXdkx8",
+    "target": "https://forms.gle/svTSCFY3a4UwXdkx8"
+  }
+}
